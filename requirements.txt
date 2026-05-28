@@ -1,0 +1,15 @@
+mcp
+fastmcp
+streamlit>=1.44.0
+openai>=1.30.0
+pinecone>=5.0.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-pinecone>=0.2.0
+langchain-openai>=0.2.0
+langchain-huggingface>=0.1.0
+unstructured[pdf]>=0.15.0
+python-dotenv
+flashrank>=0.2.8
+rank_bm25
