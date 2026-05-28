@@ -16,13 +16,13 @@ The system consists of three main components:
 | Component | Technology |
 | :--- | :--- |
 | UI | Streamlit |
-| Orchestration | LangGraph StateGraph |
-| Document Parsing | PyMuPDF (fitz) |
-| Embedding Model | Sentence Transformers (all-MiniLM-L6-v2) |
-| Vector Database | FAISS (IndexFlatIP) |
-| Keyword Retrieval | BM25 (rank-bm25) |
-| Fusion Strategy | Reciprocal Rank Fusion (RRF) |
-| LLM | Anthropic Claude Sonnet-4.6 |
+| Orchestration | OpenAI SDK and MCP SDK |
+| Document Parsing | Unstructured |
+| Embedding Model | Sentence Transformers (intfloat/e5-base-v2) |
+| Vector Database | Pinecone (HNSW) |
+| Chunk Retrieval | BM25 + Cosine Similarity |
+| Chunk Finalisation Strategy | Reciprocal Rank Fusion (RRF) + Cross-Encoder Based Re-Ranking (ms-marco-MiniLM-L-12-v2) with FlashRank |
+| LLM | OpenAI GPT 5.4 mini |
 
 ---
 
