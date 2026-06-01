@@ -47,7 +47,6 @@ multi_agent_system/
 │   ├── config.py               # Pinecone and OpenAI configurations
 │   └── requirements.txt        # PDF processing dependencies
 ├── mcp_client.py               # Shared utility to interact with MCP servers
-├── requirements.txt            # Root dependencies
 └── .env                        # Environment variables (API keys)
 ```
 
