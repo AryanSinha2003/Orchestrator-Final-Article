@@ -45,8 +45,8 @@ multi_agent_system/
 │   ├── data_processing.py      # PDF extraction and chunking
 │   ├── mcp_server.py           # Payer MCP Server providing context
 │   ├── config.py               # Pinecone and OpenAI configurations
-│   └── requirements.txt        # PDF processing dependencies
 ├── mcp_client.py               # Shared utility to interact with MCP servers
+ ── requirements.txt            # Project Dependencies
 └── .env                        # Environment variables (API keys)
 ```
 
@@ -68,8 +68,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install main requirements
 pip install -r requirements.txt
 
-# Install PDF processing requirements
-pip install -r pdf_mcp_server/requirements.txt
 ```
 
 ### 3. Pinecone Index Setup
