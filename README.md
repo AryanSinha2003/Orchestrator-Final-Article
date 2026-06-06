@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-RAG-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-RAG-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Parsing-Unstructured-ff9800?style=for-the-badge" />
   <br/>
   <br/>
