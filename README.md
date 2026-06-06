@@ -13,7 +13,7 @@
   <br/>
   <br/>
   <!-- Agents, MCP, and Frameworks -->
-  <img src="https://img.shields.io/badge/AI%20Agent-Compatible-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/FastMCP-Framework-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/FHIR%20Tools-20-orange?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Deployed%20on-Render-black?style=for-the-badge&logo=render&logoColor=white" />
