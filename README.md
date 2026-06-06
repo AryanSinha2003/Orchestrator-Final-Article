@@ -1,6 +1,6 @@
 <div align="center">
 <!-- You can upload the banner image to your repo's 'assets' or 'images' folder and update the path below -->
-<img src="banner.png" alt="Multi-Agent Healthcare Clinical Orchestrator Banner" width="100%">
+ 
 <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
