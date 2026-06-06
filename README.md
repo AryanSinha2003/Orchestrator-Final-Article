@@ -2,27 +2,27 @@
   <!-- You can upload the banner image to your repo's 'assets' or 'images' folder and update the src below -->
   <img src="banner.png" alt="Multi-Agent Healthcare Clinical Orchestrator Banner" width="100%" />
 </p>
-
 <p align="center">
   <!-- Core Tech Stack -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RAG-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Parsing-Unstructured-ff9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-RAG-009688?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parsing-Unstructured-ff9800?style=for-the-badge&logo=markdown&logoColor=white" />
   <br/>
   <br/>
   <!-- Agents, MCP, and Frameworks -->
-  <img src="https://img.shields.io/badge/AI%20Agent-Compatible-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP%20Server-Enabled-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastMCP-Framework-009688?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/FHIR%20Tools-20-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployed%20on-Render-black?style=for-the-badge&logo=render" />
+  <img src="https://img.shields.io/badge/AI%20Agent-Compatible-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP%20Server-Enabled-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastMCP-Framework-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FHIR%20Tools-20-orange?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployed%20on-Render-black?style=for-the-badge&logo=render&logoColor=white" />
   <br/>
   <br/>
   <!-- Repository Info -->
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 # Multi-Agent Healthcare Clinical Orchestrator
