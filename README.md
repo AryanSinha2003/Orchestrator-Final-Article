@@ -22,7 +22,6 @@
   <br/>
   <!-- Repository Info -->
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 # Multi-Agent Healthcare Clinical Orchestrator
