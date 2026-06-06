@@ -52,7 +52,7 @@ The system consists of three main components:
 
 ---
 
-Detailed and In-depth Explanation and Comprehensive Documentation : https://docs.google.com/document/d/1GS3k4BvaOdwpFYpkkIEzCICFHhfezFLy9Drl8wjKDJY/edit?usp=sharing
+Detailed and In-depth Explanation and Comprehensive Documentation : [https://docs.google.com/document/d/1GS3k4BvaOdwpFYpkkIEzCICFHhfezFLy9Drl8wjKDJY/edit?usp=sharing](https://github.com/AryanSinha2003/Orchestrator-Final-Article/blob/main/Multi-Agent%20System_%20AI%20Orchestration%20for%20Clinical%20Data%20%26%20Prior%20Authorization.pdf)
 
 ## Project Structure
 
