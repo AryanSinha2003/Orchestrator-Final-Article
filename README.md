@@ -52,6 +52,8 @@ The system consists of three main components:
 
 ---
 
+Detailed and In-depth Explanation and Comprehensive Documentation : https://docs.google.com/document/d/1GS3k4BvaOdwpFYpkkIEzCICFHhfezFLy9Drl8wjKDJY/edit?usp=sharing
+
 ## Project Structure
 
 ```text
