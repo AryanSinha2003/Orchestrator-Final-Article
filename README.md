@@ -25,10 +25,6 @@
 
 # Multi-Agent Healthcare Clinical Orchestrator
 
-
-
-# Multi-Agent Healthcare Clinical Orchestrator
-
 ## Overview
 
 This Multi-Agent System is designed to streamline clinical and administrative workflows by routing user questions to specialized AI agents. It seamlessly integrates patient clinical data (EHR) with insurance/payer policies (Prior Authorization) to provide comprehensive, context-aware answers.
